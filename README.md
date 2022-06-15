@@ -1,4 +1,5 @@
-## Hi there 👋 I'm César Hilário
+# Hi there 👋 
+## I'm César Hilário
 
 - 🔭 I’m currently working on LionX as Mobile Developer
 - 🌱 I’m currently learning native apps iOS (Swift) and Android (Kotlin/Java) ecosystem.

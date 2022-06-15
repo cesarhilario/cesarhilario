@@ -13,8 +13,8 @@ In short, programming and design are what I "spend" my time on.
 Also, another area that is my hobby is building video games. In the future, I want to live doing this
 
 ### Find me 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [/in/cesarhilario](https://linkedin.com/in/cesarhilario)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) [ocesarhilario[(https://instagram.com/ocesarhilario)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)[/in/cesarhilario](https://linkedin.com/in/cesarhilario)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) [ocesarhilario](https://instagram.com/ocesarhilario)
 
 ### Techinical skills 
 

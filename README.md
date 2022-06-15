@@ -8,7 +8,7 @@
 - 🧐 Curiosity: I LOVE FOX 🦊
 
 ### About me
-Throughout my journey, I worked as a Full Stack developer, however, in 2021 I decided to apply my focus on mobile development by applying the T-Shaped 🧐concept (I still love web development). This decision was very important in my life and changed my mindset.
+Throughout my journey, I worked as a Full Stack developer, however, in 2021 I decided to apply my focus on mobile development by applying the T-Shaped concept (I still love web development). This decision was very important in my life and changed my mindset.
 Another point I like is the design more precisely the User Interface, most good designs are beautiful designs too.
 In short, programming and design are what I "spend" my time on.
 Also, another area that is my hobby is building video games. In the future, I want to live doing this

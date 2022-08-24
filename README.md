@@ -2,7 +2,7 @@
 ## I'm César Hilário
 
 - 🔭 I’m currently working on LionX as Mobile Developer
-- 🌱 I’m currently learning native apps iOS (Swift) and Android (Kotlin/Java) ecosystem.
+- 🌱 I’m currently learning native apps development on iOS (Swift) and Android (Kotlin/Java) ecosystem.
 - 🧑🏾‍🎨 UI/UX aspirant
 - ⚡ Fun fact: I do not know how to ride a bike 🚲 (without me 😝)
 - 🧐 Curiosity: I LOVE FOX 🦊

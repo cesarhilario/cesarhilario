@@ -17,10 +17,6 @@ Also, another area that is my hobby is building video games. In the future, I wa
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <br/>
 [/in/cesarhilario](https://linkedin.com/in/cesarhilario)
-<br/>
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) 
-<br/>
-[ocesarhilario](https://instagram.com/ocesarhilario)
 
 ### Techinical skills 
 

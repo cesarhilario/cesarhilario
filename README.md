@@ -1,7 +1,7 @@
 # Hi there 👋 
 ## I'm César Hilário
 
-- 🔭 I’m currently working on LionX as Mobile Developer
+- 🔭 I’m currently working on PicPay as Mobile Developer
 - 🧑🏾‍🎨 UI/UX aspirant
 - ⚡ Fun fact: I do not know how to ride a bike 🚲 (without me 😝)
 - 🧐 Curiosity: I LOVE FOX 🦊

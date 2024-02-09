@@ -9,9 +9,6 @@
 ### About me
 I am passionate about technology and design, learning every day and always trying to make a better world.
 
-### Find me 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cesarhilario)
-
 ### Technical skills 
 
 #### Programming Languages

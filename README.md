@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Leroy Merlin as a Mobile Developer
 - 🧑🏾‍🎨 UI/UX aspirant
 - ⚡ Fun fact: I do not know how to ride a bike 🚲 (without me 😝)
-- 🧐 Curiosity: I LOVE FOX 🦊
+  - 🧐 Curiosity: I LOVE FOX 🦊 and CATS 🐈
 
 ### About me
 I am passionate about technology and design, learning every day and always trying to make a better world.

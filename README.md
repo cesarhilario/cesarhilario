@@ -1,7 +1,7 @@
 # Hi there 👋 
 ## I'm César Hilário
 
-- 🔭 I’m currently working on Ilia as a Mobile Developer
+- 🔭 I’m currently working on Ilia as a Mobile Specialist
 - 🧑🏾‍🎨 UI/UX aspirant
 - ⚡ Fun fact: I do not know how to ride a bike 🚲 (without me 😝)
   - 🧐 Curiosity: I LOVE FOX 🦊 and CATS 🐈
